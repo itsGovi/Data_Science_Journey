@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional, if you want to share settings, remove these lines)
+.vscode/
